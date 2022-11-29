@@ -23,3 +23,7 @@ https://colab.research.google.com/drive/1dIfKjdK0yM5Ztz5SQdmQ4N9zJOpuTt81?usp=sh
 # temat 3 
 
 https://colab.research.google.com/drive/1dhCyRx3ll90bDghlR1QX78pfiXltORc8#scrollTo=ek-FZUQazryI
+
+# Nagrania
+
+https://drive.google.com/drive/folders/1nW7JjPTkgv04PT6ba4csUrmw8ImSUhQI?usp=sharing
