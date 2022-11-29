@@ -19,3 +19,7 @@ https://colab.research.google.com/drive/1gTA4hdWMJc3jrzcvEI6wa2PVdYnAoJHL?usp=sh
 # temat 2
 
 https://colab.research.google.com/drive/1dIfKjdK0yM5Ztz5SQdmQ4N9zJOpuTt81?usp=sharing
+
+# temat 3 
+
+https://colab.research.google.com/drive/1dhCyRx3ll90bDghlR1QX78pfiXltORc8#scrollTo=ek-FZUQazryI
