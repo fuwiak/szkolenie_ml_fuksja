@@ -15,3 +15,7 @@ https://docs.google.com/spreadsheets/d/1rKqr3MW_H6suP0TD922OTezN3zHCiOtVt0cj3TKE
 # temat 1
 
 https://colab.research.google.com/drive/1gTA4hdWMJc3jrzcvEI6wa2PVdYnAoJHL?usp=sharing
+
+# temat 2
+
+https://colab.research.google.com/drive/1dIfKjdK0yM5Ztz5SQdmQ4N9zJOpuTt81?usp=sharing
