@@ -18,7 +18,7 @@ https://colab.research.google.com/drive/1gTA4hdWMJc3jrzcvEI6wa2PVdYnAoJHL?usp=sh
 
 # temat 2
 
-https://colab.research.google.com/drive/1dIfKjdK0yM5Ztz5SQdmQ4N9zJOpuTt81?usp=sharing
+https://colab.research.google.com/drive/1iTKSSJfh5RHCtBJyC0TQ65N4PQ9XQwwT?usp=sharing
 
 # temat 3 
 
