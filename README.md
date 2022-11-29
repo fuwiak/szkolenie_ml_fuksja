@@ -22,7 +22,7 @@ https://colab.research.google.com/drive/1iTKSSJfh5RHCtBJyC0TQ65N4PQ9XQwwT?usp=sh
 
 # temat 3 
 
-https://colab.research.google.com/drive/1dhCyRx3ll90bDghlR1QX78pfiXltORc8#scrollTo=ek-FZUQazryI
+https://colab.research.google.com/drive/1dhCyRx3ll90bDghlR1QX78pfiXltORc8?usp=sharing
 
 # Nagrania
 
