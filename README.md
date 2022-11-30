@@ -31,7 +31,7 @@ https://colab.research.google.com/drive/1ccha4QChlyXBKTcLrFyHwQhTgbmC0Tml?usp=sh
 
 # Pycaret
 
-https://colab.research.google.com/drive/1GOoHFrKEgvLVOAmx6r5KoaTemfK3IymT?authuser=3#scrollTo=QM4l7ATycYeA
+https://colab.research.google.com/drive/1GOoHFrKEgvLVOAmx6r5KoaTemfK3IymT?usp=sharing
 
 
 
