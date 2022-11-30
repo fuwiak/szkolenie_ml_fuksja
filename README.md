@@ -24,6 +24,12 @@ https://colab.research.google.com/drive/1iTKSSJfh5RHCtBJyC0TQ65N4PQ9XQwwT?usp=sh
 
 https://colab.research.google.com/drive/1dhCyRx3ll90bDghlR1QX78pfiXltORc8?usp=sharing
 
+# temat 4
+
+https://colab.research.google.com/drive/1ccha4QChlyXBKTcLrFyHwQhTgbmC0Tml?usp=sharing
+
+
+
 # Nagrania
 
 https://drive.google.com/drive/folders/1nW7JjPTkgv04PT6ba4csUrmw8ImSUhQI?usp=sharing
