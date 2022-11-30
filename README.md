@@ -29,6 +29,11 @@ https://colab.research.google.com/drive/1dhCyRx3ll90bDghlR1QX78pfiXltORc8?usp=sh
 https://colab.research.google.com/drive/1ccha4QChlyXBKTcLrFyHwQhTgbmC0Tml?usp=sharing
 
 
+# Pycaret
+
+https://colab.research.google.com/drive/1GOoHFrKEgvLVOAmx6r5KoaTemfK3IymT?authuser=3#scrollTo=QM4l7ATycYeA
+
+
 
 # Nagrania
 
