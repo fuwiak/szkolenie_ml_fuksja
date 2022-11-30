@@ -28,6 +28,10 @@ https://colab.research.google.com/drive/1dhCyRx3ll90bDghlR1QX78pfiXltORc8?usp=sh
 
 https://colab.research.google.com/drive/1ccha4QChlyXBKTcLrFyHwQhTgbmC0Tml?usp=sharing
 
+# temat 5
+
+https://colab.research.google.com/drive/1K47wR9rR5aNPjSCt6RvigpdGcpcuA9tT?usp=sharing
+
 
 # Pycaret
 
